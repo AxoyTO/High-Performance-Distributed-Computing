@@ -28,6 +28,7 @@
 
 # Executables
 *.exe
+!**/MatrixGather.exe
 *.out
 *.app
 
@@ -35,3 +36,4 @@
 *.png
 *.jpg
 *.jpeg
+Distributed Systems/MPI/MatrixGatherWithComments.c
